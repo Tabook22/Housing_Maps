@@ -1,0 +1,7 @@
+Flask 
+Pillow 
+pytesseract 
+pyproj 
+folium
+streamlit
+streamlit-folium
